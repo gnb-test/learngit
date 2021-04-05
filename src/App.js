@@ -4,7 +4,8 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      I am developing!
+      A new thing was added to the develop branch, now your future branch is behind
+      
     </div>
   );
 }
